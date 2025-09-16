@@ -43,7 +43,7 @@ export const Contact = () => {
             <Toaster />
           <div className="card shadow-lg border-0 rounded-3">
             <div className="card-header bg-dark text-white text-center">
-              <h4 className="mb-0">📚 Feedback Form</h4>
+              <h4 className="mb-0">📚 Feedback Form for everyone</h4>
               <p className="small mb-0">
                 We value your feedback on our Book Management System
               </p>
